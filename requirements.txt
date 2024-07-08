@@ -1,5 +1,5 @@
 streamlit
-numpy==1.23.3
+numpy==1.25.2
 matplotlib
 joblib
 librosa
